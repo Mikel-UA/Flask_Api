@@ -1,10 +1,10 @@
-# Prueba Técnica API t2ó
+# Flask API con Pandas y Numpy
 
-Nota: Todas las funciones han sido modificadas para añadir complejidad y justificar el uso de las librerías Pandas y Numpy, a pesar de que esto pueda afectar a su rendimiento y optimización.
+Note: The purpose of the project is to use the Pandas and numpy libraries, which are unnecessary and in no case represent an improvement over the base python functions that we would apply in this case.
 
 ## Índice
 
-- [Prueba Técnica API t2ó](#_Prueba_Técnica_API_t2ó)
+- [Flask API con Pandas y Numpy](#Flask_API_con_Pandas_y_Numpy)
   - [Índice](#Índice)
   - [Instalación](#Instalación)
   - [Uso](#Uso)
